@@ -1,3 +1,5 @@
+[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=zelyony&url=https://github.com/zelyony/iphonearkit&title=iPhoneARKit&language=objc&tags=github&category=software)
+
 # iPhone ARKit #
 
 ## Overview ##
@@ -11,6 +13,3 @@ While iPhone ARKit's API isn't an exact match, one controller can act as the del
 ## Current Status ##
 
 iPhone ARKit is a slight bit rough right now. It is possible to find it useful, but it probably won't be a drop in addition to your project. To view or add to our bugs and feature requests, check out the [Issues](http://issues.github.com/zac/iphonearkit) section.
-
-## (Offtop) Just for checks Flattr button ##
-[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=zelyony&url=https://github.com/zac/iphonearkit&title=iPhoneARKit&language=objc&tags=github&category=software)
